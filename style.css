@@ -16,6 +16,11 @@ main {
 
 }
 
+.imagem-fundo {
+    width: 100vw;
+    height: 70vh;
+}
+
 .container {
     width: 100%;
     height: var(--height);
